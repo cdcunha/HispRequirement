@@ -1,0 +1,424 @@
+﻿{
+  "Title": "Delphi Packages",
+  "TypeSearch": "Registry",
+  "RootRegistry": "HKEY_CURRENT_USER",
+  "Subkey": "Software\\CodeGear\\BDS\\7.0\\Known Packages",
+  "Packages": [
+    {
+      "Package": "$(BDS)\\RaveReports\\Lib\\dclRave.bpl",
+      "Description": "Rave Reports 7.7 BE Package"
+    },
+    {
+      "Package": "$(BDS)\\bin\\applet140.bpl",
+      "Description": "Embarcadero Control Panel Applet Package"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dcl31w140.bpl",
+      "Description": "Delphi 1.0 Compatibility Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclstd140.bpl",
+      "Description": "Embarcadero Standard Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclact140.bpl",
+      "Description": "Embarcadero ActionBar Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclbde140.bpl",
+      "Description": "Embarcadero BDE DB Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dcldb140.bpl",
+      "Description": "Embarcadero Database Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dbx140.bpl",
+      "Description": "Embarcadero SQL Explorer UI Package"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclemacsedit140.bpl",
+      "Description": "Embarcadero Editor Emacs Enhancements"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclmlwiz140.bpl",
+      "Description": "Embarcadero Markup Language Wizards"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclsmpedit140.bpl",
+      "Description": "Embarcadero Editor Script Enhancements"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dcltouch140.bpl",
+      "Description": "Embarcadero Touch Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\samplevisualizers140.bpl",
+      "Description": "Embarcadero Sample Debugger Visualizers"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclmcn140.bpl",
+      "Description": "Embarcadero DataSnap Connection Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclmid140.bpl",
+      "Description": "Embarcadero MyBase DataAccess Components"
+    },
+    {
+      "Package": "$(BDS)\\Bin\\dclib140.bpl",
+      "Description": "Embarcadero InterBase Express Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclado140.bpl",
+      "Description": "Embarcadero ADO DB Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclIndyCore140.bpl",
+      "Description": "Indy 10 Core Design Time"
+    },
+    {
+      "Package": "$(BDS)\\Bin\\dclIndyProtocols140.bpl",
+      "Description": "Indy 10 Protocols Design Time"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclIntraweb_100_140.bpl",
+      "Description": "VCL for the Web 10.0  Design Package for CodeGear RAD Studio"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclsmp140.bpl",
+      "Description": "Embarcadero Sample Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclie140.bpl",
+      "Description": "Internet Explorer Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclwebsnap140.bpl",
+      "Description": "Embarcadero WebSnap Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclwbm140.bpl",
+      "Description": "Embarcadero InternetExpress Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclnet140.bpl",
+      "Description": "Embarcadero Internet Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclsoap140.bpl",
+      "Description": "Embarcadero SOAP Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclribbon140.bpl",
+      "Description": "Embarcadero Ribbon Controls"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclDataSnapIndy10ServerTransport140.bpl",
+      "Description": "Embarcadero DBExpress DataSnap Server Transport Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclDataSnapProviderClient140.bpl",
+      "Description": "Embarcadero DBExpress DataSnap Provider Client Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclDataSnapServer140.bpl",
+      "Description": "Embarcadero DBExpress DataSnap Server Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclDBXDrivers140.bpl",
+      "Description": "Embarcadero Driver Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dcldbx140.bpl",
+      "Description": "Embarcadero dbExpress Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclDBXDriversEnt140.bpl",
+      "Description": "Embarcadero Enterprise Driver Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dcldbxcds140.bpl",
+      "Description": "Embarcadero SimpleDataset Component (DBX)"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\MadExcept\\madBasic\\BDS7\\madBasic_.bpl",
+      "Description": "madBasic 1.2.5  -  www.madshi.net"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\MadExcept\\madBasic\\BDS7\\madHelp_.bpl",
+      "Description": "madHelp 1.1.1  -  www.madshi.net"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\MadExcept\\madDisAsm\\BDS7\\madDisAsm_.bpl",
+      "Description": "madDisAsm 2.2.4  -  www.madshi.net"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\MadExcept\\madExcept\\BDS7\\madExceptIde_.bpl",
+      "Description": "madExceptIde 1.1.0  -  www.madshi.net"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\MadExcept\\madExcept\\BDS7\\madExcept_.bpl",
+      "Description": "madExcept 4.0.15  -  www.madshi.net"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\MadExcept\\madExcept\\BDS7\\madExceptVcl_.bpl",
+      "Description": "madExceptVcl 2.1.0  -  www.madshi.net"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\MadExcept\\madExcept\\BDS7\\madExceptWizard_.bpl",
+      "Description": "madExceptWizard 3.1.5  -  www.madshi.net"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\RBuilder\\Lib\\dclRBP1214.bpl",
+      "Description": "ReportBuilder Professional"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\RBuilder\\Lib\\dclRBBDE1214.bpl",
+      "Description": "ReportBuilder Data Access for BDE"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\RBuilder\\Lib\\dclDAD1214.bpl",
+      "Description": "ReportBuilder Data Access Environment"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Quickrep505\\QR5DesignD2010.bpl",
+      "Description": "QuickReport 5.05 Components"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\TeeChart 2010 for Delphi 2010\\Delphi14\\Bin\\DclTeeMaker114.bpl",
+      "Description": "TeeMaker "
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\TeeChart 2010 for Delphi 2010\\Delphi14\\Bin\\DclTree2D14Tee9.bpl",
+      "Description": "TeeTree 2 Components"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Addict4\\BPL\\addict4_d14.bpl",
+      "Description": "Addict 4.1 for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Addict4\\BPL\\addict4db_d14.bpl",
+      "Description": "Addict 4.1 for Delphi 2010  (DB Aware Components)"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Richview\\bin\\RVPkgD2010.bpl",
+      "Description": "TRichView for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Richview\\bin\\RVDBPkgD2010.bpl",
+      "Description": "TRichView DB for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Addict4\\adrv3\\bin\\Addict4_RichView_d2010.bpl",
+      "Description": "TRichView for Addict 4 for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dcldxCoreD14.bpl",
+      "Description": "ExpressCoreLibrary by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dclcxBarEditItemD14.bpl",
+      "Description": "ExpressBars cxEditor item by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dclcxExtEditorsD14.bpl",
+      "Description": "ExpressExtendedEditors Library 5 by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dclcxEditorsD14.bpl",
+      "Description": "ExpressEditors Library 5 by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dclcxLibraryD14.bpl",
+      "Description": "Express Cross Platform Library by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dclcxGridD14.bpl",
+      "Description": "ExpressQuantumGrid 6 by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dclcxPageControlD14.bpl",
+      "Description": "Express Cross Platform PageControl by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dclcxSchedulerD14.bpl",
+      "Description": "ExpressScheduler 3 by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dclcxSchedulerGridD14.bpl",
+      "Description": "ExpressScheduler 3 connection to ExpressQuantumGrid by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dclcxVerticalGridD14.bpl",
+      "Description": "ExpressVerticalGrid by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dcldxBarD14.bpl",
+      "Description": "ExpressBars by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dcldxBarDBNavD14.bpl",
+      "Description": "ExpressBars DBNavigator by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dcldxDockingD14.bpl",
+      "Description": "ExpressDocking Library by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dcldxLayoutControlD14.bpl",
+      "Description": "ExpressLayout Control 2 by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dcldxmdsD14.bpl",
+      "Description": "ExpressMemData by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dcldxRibbonD14.bpl",
+      "Description": "ExpressBars Ribbon controls by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dcldxBarExtDBItemsD14.bpl",
+      "Description": "ExpressBars extended DB items by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dcldxBarExtItemsD14.bpl",
+      "Description": "ExpressBars extended items by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dcldxNavBarD14.bpl",
+      "Description": "ExpressNavBar 2 by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\Dev Express.VCL\\Library\\Delphi14\\dcldxSBD14.bpl",
+      "Description": "ExpressSideBar by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\acnt2010.bpl",
+      "Description": "AlphaControls"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\acnt2010_R.bpl",
+      "Description": "AlphaControls run-time library"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\AlphaDB2010.bpl",
+      "Description": "AlphaControls DB-aware pack"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\AmilBiometria_D14.bpl",
+      "Description": "wAgfa - Amil Biometria"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\ChkLstBxSpecial_D14.bpl",
+      "Description": "wAgfa - Componente CheckListBox Especial"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\DCPdelphi2010.bpl",
+      "Description": "wAgfa - Cryptographic Component Library v2 for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\WPCaptureImagem_D14.bpl",
+      "Description": "wAgfa - Capture Image Component for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\WPDDesktop_D14.bpl",
+      "Description": "wAgfa - Pacote de Componentes Desktop for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\WebServiceIntegracao_D14.bpl",
+      "Description": "wAgfa - WebServices Integracao"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\dcOutBarPackage_D14.bpl",
+      "Description": "wAgfa - Dream OutBar Components for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\dclexprsd2k10.bpl",
+      "Description": "Expression parser 3.4.2"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\exprsd2k10.bpl",
+      "Description": "Expression parser 3.4.2"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\eMail3_D14.bpl",
+      "Description": "wAgfa - Email MAPI component"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\wpWallpaper_D14.bpl",
+      "Description": "wAgfa - Wallpaper Component for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\wpdBiometria_D14.bpl",
+      "Description": "wAgfa - Biometric Components (Nitgen e Digital Persona) for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\wpdGradient_D14.bpl",
+      "Description": "wAgfa - Gradient Component Visual Effect for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\WPDTerceiros\\bin\\DrawObjects_D14.bpl",
+      "Description": "wAgfa - DrawObjects Components for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\WPDTerceiros\\bin\\WPDGridDiagnostico_D14.bpl",
+      "Description": "wAgfa - Grid de Diagnóstico (formulários Configuráveis) for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\WPDTerceiros\\bin\\wpdRERB_D14.bpl",
+      "Description": "wAgfa - Component for RBuilder Reports for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\TsiLang\\Units\\ERS 2010\\TsiLang_2010.bpl",
+      "Description": "TsiLang Components Suite (VCL Edition)"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\RxLib\\Bin\\dclrx140.bpl",
+      "Description": "RX Library Controls and Tools"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\RxLib\\Bin\\dclrxdb140.bpl",
+      "Description": "RX Library Database Components"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\AgfaEditPesquisa.bpl",
+      "Description": "wAgfa - Componente Edit de Pesquisa Rápida"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\AgfaWSSigner.bpl",
+      "Description": "wAgfa - Digital CertSign for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\TeeChart 2010 for Delphi 2010\\Delphi14\\Bin\\DclTeePro914.bpl",
+      "Description": "TeeChart Pro 9 Components"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\WPDTerceiros\\bin\\WPDTerceiros_D14.bpl",
+      "Description": "wAgfa - Componentes Próprios & Parceiros (inclui WpCompMedview) for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\rv_rbuilder\\bin\\rvrb12D2010.bpl",
+      "Description": "TRichView Wrapper for ReportBuilder 12 for Delphi 2010"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\DevExpress dx D2010\\bpls\\dclEQTLD5.bpl",
+      "Description": "ExpressQuantumTreeList and dxDBGrid by Developer Express Inc."
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\bin\\FormatadorXML.bpl",
+      "Description": "WPD Formatador XML"
+    },
+    {
+      "Package": "C:\\Area de Trabalho\\FrameWork\\FrameWork_D2010\\Biblioteca\\richviewactions\\bin\\RichViewActionsD2010.bpl",
+      "Description": "TRichView: RichViewActions for Delphi 2010"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dcloffice2k140.bpl",
+      "Description": "Microsoft Office 2000 Sample Automation Server Wrapper Components"
+    },
+    {
+      "Package": "$(BDS)\\bin\\dclofficexp140.bpl",
+      "Description": "Microsoft Office XP Sample Automation Server Wrapper Components"
+    }
+  ]
+}

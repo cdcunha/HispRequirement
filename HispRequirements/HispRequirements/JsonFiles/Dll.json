@@ -1,0 +1,63 @@
+﻿{
+  "Title": "DLLs usadas pelo SisHosp",
+  "Type": "DLL",
+  "Address": "",
+  "Values": [
+    {
+      "Arquivo": "WpdRelOnline.dll",
+      "Modulos": [ "Diag" ]
+    },
+    {
+      "Arquivo": "WpdRelOL.dll",
+      "Modulos": [ "" ]
+    },
+    {
+      "Arquivo": "wtsapi32.dll",
+      "Modulos": [ "" ]
+    },
+    {
+      "Arquivo": "WPDCapturaTeclado.dll",
+      "Modulos": [ "" ]
+    },
+    {
+      "Arquivo": "wpAvisoClnAdm.dll",
+      "Modulos": [ "WVisita", "Blochos", "Diag", "Fathos", "Posthos", "Recep", "Urgencia", "wEsthos" ]
+    },
+    {
+      "Arquivo": "Rca.dll",
+      "Modulos": [ "" ]
+    },
+    {
+      "Arquivo": "p32prtch.dll",
+      "Modulos": [ "wPainel - Impressão" ]
+    },
+    {
+      "Arquivo": "p32lcbch.dll",
+      "Modulos": [ "wPainel - Leitora porta serial" ]
+    },
+    {
+      "Arquivo": "p32bcs.dll",
+      "Modulos": [ "wPainel - Leitora porta USB" ]
+    },
+    {
+      "Arquivo": "WpdRelathos.dll",
+      "Modulos": []
+    },
+    {
+      "Arquivo": "hhctrl.ocx",
+      "Modulos": []
+    },
+    {
+      "Arquivo": "ElegibilidadeSisAmil.dll",
+      "Modulos": []
+    },
+    {
+      "Arquivo": "wpdValidaCarteira.dll",
+      "Modulos": []
+    },
+    {
+      "Arquivo": "riched20.dll",
+      "Modulos": [ "Relathos" ]
+    }
+  ]
+}

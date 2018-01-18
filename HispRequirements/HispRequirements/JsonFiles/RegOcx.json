@@ -1,0 +1,13 @@
+﻿{
+  "Title": "OCXs usadas pelo SisHosp",
+  "TypeSearch": "OCX",
+  "RootRegistry": "HKEY_CLASSES_ROOT",
+  "Subkey": "TypeLib",
+  "Values": [
+    {
+      "Classe": "{8996B0A4-D7BE-101B-8650-00AA003A5593}",
+      "Arquivo": "cfx32.ocx",
+      "Modulos": [ "Diag" ]
+    }
+  ]
+}
